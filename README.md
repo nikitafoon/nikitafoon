@@ -16,7 +16,7 @@
 💡 All my life, I dreamed of working in a **biological laboratory**.  
 ⚡ But a year ago, I found my true passion in **bioinformatics** & **machine learning** 🧬💻.  
 📚 Since then, I've been diving deep into **Linux, Python, algorithms**, and **ML technologies**.  
-🧠 My goal — to develop strong **analytical thinking** & **mathematical intuition** to apply knowledge effectively.
+🧠 My goal is develop strong **analytical thinking** & **mathematical intuition** to apply knowledge effectively.
 
 ---
 
