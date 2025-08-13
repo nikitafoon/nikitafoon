@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <h1 align="center">
   Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px" alt="wave">  
-  I'm <span style="color:#58a6ff">Mefodovskiy Nikita</span>
+  I'm <span style="color:#58a6ff">Nikita Mefodovskiy</span>
 </h1>
 
 <p align="center">
