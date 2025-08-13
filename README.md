@@ -26,6 +26,7 @@
 - 📍 **Location:** Moscow  
 - 📧 **Email:** [phage@nmefodov.ru](mailto:phage@nmefodov.ru)  
 - 🧠 **Currently learning:** Machine Learning & Deep Learning  
+- 💬 **Telegram:** <a href="https://t.me/phage_lover" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" alt="Telegram Icon"/> @USERNAME</a>  
 
 ---
 
