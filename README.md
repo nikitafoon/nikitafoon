@@ -1,73 +1,70 @@
+<!-- ==================== HEADER ==================== -->
 <h1 align="center">
-  Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px" alt="wave">  
-  I'm Mefodovskiy Nikita
+  Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px" alt="wave">  
+  I'm <span style="color:#58a6ff">Mefodovskiy Nikita</span>
 </h1>
 
 <p align="center">
-  <em>Intern ML-Engineer and Bioinformatician Student</em>
+  <em>🌱 Intern ML-Engineer & Bioinformatician Student 🧬</em>
 </p>
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
 ### 🧬 About Me
 
-All my life, I've dreamed of working in a biological laboratory.  
-However, a year ago, I realized that my true calling is **bioinformatics** and **machine learning** 🧬💻.  
-Since then, I have been actively studying Linux, Python, algorithms, and ML technologies 📚🔍.  
-I strive to develop analytical thinking and mathematical intuition to better understand and apply this knowledge in practice.
+💡 All my life, I dreamed of working in a **biological laboratory**.  
+⚡ But a year ago, I found my true passion in **bioinformatics** & **machine learning** 🧬💻.  
+📚 Since then, I've been diving deep into **Linux, Python, algorithms**, and **ML technologies**.  
+🧠 My goal — to develop strong **analytical thinking** & **mathematical intuition** to apply knowledge effectively.
 
 ---
 
+<!-- ==================== INFO ==================== -->
 ### 🌍 Info
 
 - 📍 **Location:** Moscow  
-- 📧 **Contact:** [phage@nmefodov.ru](mailto:phage@nmefodov.ru)  
+- 📧 **Email:** [phage@nmefodov.ru](mailto:phage@nmefodov.ru)  
 - 🧠 **Currently learning:** Machine Learning & Deep Learning  
 
 ---
 
+<!-- ==================== SKILLS ==================== -->
 ### 🛠 Skills
 
 <p align="center">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="40" /></a>
-<a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" title="R" width="40" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" /></a>
-<a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="40" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="40" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="40" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" width="40"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" width="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40"/></a>
+<a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" width="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40"/></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40"/></a>
 </p>
 
 ---
 
-### 🤖 Machine Learning Vibes
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="AI Brain">
-</p>
-
----
-
+<!-- ==================== GITHUB STATS ==================== -->
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mefodovskiy&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mefodovskiy&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikitafoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafoon&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
+<!-- ==================== STREAK ==================== -->
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mefodovskiy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nikitafoon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
-
+<!-- ==================== FOOTER QUOTE ==================== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mefodovskiy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <em>“Data is the new oil, but intelligence is the refinery.”</em>
 </p>
