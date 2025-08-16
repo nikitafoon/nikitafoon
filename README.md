@@ -43,13 +43,3 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40"/></a>
 </p>
-
----
-
-<!-- ==================== GITHUB STATS ==================== -->
-### 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikitafoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafoon&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
