@@ -53,19 +53,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nikitafoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafoon&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
-
----
-
-<!-- ==================== STREAK ==================== -->
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikitafoon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<!-- ==================== FOOTER QUOTE ==================== -->
-<p align="center">
-  <em>“Data is the new oil, but intelligence is the refinery.”</em>
-</p>
