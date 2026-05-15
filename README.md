@@ -11,6 +11,7 @@
 ---
 <!-- ==================== MY PROJECTS ==================== -->
 ### ⚡ My Projects
+- **Cigarette Butt Recognition System** via YOLOv8n
 - **My Face Recognition System** via Convolutional Neural Network
 - **Linear Regression From Scratch (C++)**  
 - **Logistic Regression from Scratch (Python)**  
