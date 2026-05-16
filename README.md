@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>🌱 Intern ML-Engineer & Bioinformatician Student 🧬</em>
+  <em>🌱 Junior ML-Engineer & Bioinformatician Student 🧬</em>
 </p>
 
 ---
